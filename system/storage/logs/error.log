@@ -1,0 +1,103 @@
+2017-01-30 12:34:34 - PHP Notice:  Undefined variable: help_complex in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 970
+2017-01-30 12:34:34 - PHP Notice:  Undefined variable: entry_complex in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 970
+2017-01-30 12:34:34 - PHP Notice:  Undefined variable: entry_complex in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 972
+2017-01-30 12:34:34 - PHP Notice:  Undefined variable: product_complexs in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 974
+2017-01-30 12:34:34 - PHP Warning:  Invalid argument supplied for foreach() in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 974
+2017-01-30 12:40:49 - PHP Notice:  Undefined variable: entry_complex in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 972
+2017-01-30 12:40:49 - PHP Notice:  Undefined variable: product_complexs in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 974
+2017-01-30 12:40:49 - PHP Warning:  Invalid argument supplied for foreach() in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 974
+2017-01-30 12:41:48 - PHP Notice:  Undefined variable: product_complexs in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 974
+2017-01-30 12:41:48 - PHP Warning:  Invalid argument supplied for foreach() in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 974
+2017-01-30 12:42:06 - PHP Notice:  Undefined variable: product_complexs in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 974
+2017-01-30 12:42:06 - PHP Warning:  Invalid argument supplied for foreach() in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 974
+2017-01-30 12:43:31 - PHP Notice:  Undefined variable: product_complexs in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 974
+2017-01-30 12:43:31 - PHP Warning:  Invalid argument supplied for foreach() in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 974
+2017-01-30 14:10:43 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /srv/hipno/html/test.com/krok/system/library/image.php on line 105
+2017-01-30 14:10:43 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 108
+2017-01-30 14:10:43 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 109
+2017-01-30 14:10:43 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 110
+2017-01-30 14:10:43 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 111
+2017-01-30 14:10:43 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 116
+2017-01-30 14:10:43 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 118
+2017-01-30 14:10:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /srv/hipno/html/test.com/krok/system/library/image.php on line 105
+2017-01-30 14:10:54 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 108
+2017-01-30 14:10:54 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 109
+2017-01-30 14:10:54 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 110
+2017-01-30 14:10:54 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 111
+2017-01-30 14:10:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 116
+2017-01-30 14:10:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 118
+2017-01-30 14:10:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /srv/hipno/html/test.com/krok/system/library/image.php on line 105
+2017-01-30 14:10:56 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 108
+2017-01-30 14:10:56 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 109
+2017-01-30 14:10:56 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 110
+2017-01-30 14:10:56 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 111
+2017-01-30 14:10:56 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 116
+2017-01-30 14:10:56 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 118
+2017-01-30 14:11:28 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /srv/hipno/html/test.com/krok/system/library/image.php on line 105
+2017-01-30 14:11:28 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 108
+2017-01-30 14:11:28 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 109
+2017-01-30 14:11:28 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 110
+2017-01-30 14:11:28 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 111
+2017-01-30 14:11:28 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 116
+2017-01-30 14:11:28 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /srv/hipno/html/test.com/krok/system/library/image.php on line 118
+2017-01-30 16:33:08 - PHP Notice:  Undefined index: complex_price in /srv/hipno/html/test.com/krok/admin/controller/catalog/product.php on line 1409
+2017-01-30 17:24:48 - PHP Notice:  Array to string conversion in /srv/hipno/html/test.com/krok/admin/controller/catalog/product.php on line 79
+2017-01-31 11:35:43 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 992
+2017-01-31 11:37:48 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 992
+2017-01-31 11:39:02 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 992
+2017-01-31 11:40:10 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 993
+2017-01-31 11:41:15 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 993
+2017-01-31 11:41:53 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 993
+2017-01-31 11:42:04 - PHP Notice:  Undefined variable: complex_products in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 988
+2017-01-31 11:58:52 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 993
+2017-01-31 12:01:33 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 993
+2017-01-31 12:02:42 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 12:04:15 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 12:04:15 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 12:05:13 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 12:05:13 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 12:05:57 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 12:05:57 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 15:17:06 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 15:17:06 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 15:31:21 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 16:07:47 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 16:09:05 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 996
+2017-01-31 16:25:17 - PHP Notice:  Undefined variable: complex_product in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 168
+2017-01-31 16:25:17 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1001
+2017-01-31 16:25:45 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1001
+2017-01-31 16:26:22 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1001
+2017-01-31 16:27:48 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-01-31 16:28:29 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-01-31 16:52:05 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-01-31 16:53:37 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-01-31 17:03:01 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 9:28:30 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 9:32:22 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 9:42:53 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 9:43:35 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 9:44:33 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 9:51:26 - PHP Notice:  Undefined variable: product_id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 166
+2017-02-01 9:51:26 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 11:30:18 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 11:31:36 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 11:32:25 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 11:32:41 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 11:42:28 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 11:42:52 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:01:48 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:02:18 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:02:57 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:31:51 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:33:09 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:38:49 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:40:59 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:43:00 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:43:59 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:48:02 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:48:10 - PHP Notice:  Trying to get property of non-object in /srv/hipno/html/test.com/krok/admin/model/catalog/product.php on line 691
+2017-02-01 12:48:38 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 12:48:47 - PHP Notice:  Trying to get property of non-object in /srv/hipno/html/test.com/krok/admin/model/catalog/product.php on line 692
+2017-02-01 13:12:28 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 13:12:28 - PHP Notice:  Undefined index: id in /srv/hipno/html/test.com/krok/admin/view/template/catalog/product_form.tpl on line 1002
+2017-02-01 15:24:32 - PHP Notice:  Undefined variable: tags in /srv/hipno/html/test.com/krok/catalog/view/theme/default/template/product/product.tpl on line 447
